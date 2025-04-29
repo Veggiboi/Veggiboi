@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Veggiboi
-- 👀 I’m interested in Bouldering, Coding and fish keeping
-- 🌱 I’m currently learning Python, game maker, C++, and Arduino.
-- 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me 
+Hi, I’m @Veggiboi
+I’m training for my first HM in dec 2025
+Also I code for fun.
 
 <!---
 Veggiboi/Veggiboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
